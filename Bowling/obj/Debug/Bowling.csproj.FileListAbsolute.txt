@@ -1,0 +1,6 @@
+C:\Users\camilla.tan\source\repos\Bowling\Bowling\bin\Debug\Bowling.exe.config
+C:\Users\camilla.tan\source\repos\Bowling\Bowling\bin\Debug\Bowling.exe
+C:\Users\camilla.tan\source\repos\Bowling\Bowling\bin\Debug\Bowling.pdb
+C:\Users\camilla.tan\source\repos\Bowling\Bowling\obj\Debug\Bowling.csprojAssemblyReference.cache
+C:\Users\camilla.tan\source\repos\Bowling\Bowling\obj\Debug\Bowling.exe
+C:\Users\camilla.tan\source\repos\Bowling\Bowling\obj\Debug\Bowling.pdb

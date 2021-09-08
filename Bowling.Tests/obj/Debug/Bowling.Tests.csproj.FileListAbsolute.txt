@@ -1,0 +1,16 @@
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\bin\Debug\Bowling.Tests.dll
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\bin\Debug\Bowling.Tests.pdb
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\bin\Debug\Bowling.exe
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\bin\Debug\Bowling.pdb
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\bin\Debug\Bowling.exe.config
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\obj\Debug\Bowling.Tests.csprojAssemblyReference.cache
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\obj\Debug\Bowling.Tests.csproj.CopyComplete
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\obj\Debug\Bowling.Tests.dll
+C:\Users\camilla.tan\source\repos\Bowling\Bowling.Tests\obj\Debug\Bowling.Tests.pdb
